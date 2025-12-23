@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				0B60C0292EFA366D0086AC7C /* UberCloneSwiftUI */,
+				0B60C0362EFA36850086AC7C /* New Group */,
 				0B60C0282EFA366D0086AC7C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,6 +44,13 @@
 				0B60C0272EFA366D0086AC7C /* UberCloneSwiftUI.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		0B60C0362EFA36850086AC7C /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
